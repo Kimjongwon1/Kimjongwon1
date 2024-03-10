@@ -3,7 +3,7 @@
 ## 👨‍💻 저는 Java와 Spring Boot를 사용한 백엔드 개발에 관심이 많습니다.
 
 - 💼 Java와 Spring Boot로 여러 프로젝트를 개발한 경험이 있습니다.
-- 🌐 Vue.js와 MariaDB를 사용하여 웹 애플리케이션을 구축해 본 경험이 있습니다.
+- 🌐 Vue.js와 MariaDB, Redis를 사용하여 웹 애플리케이션을 구축해 본 경험이 있습니다.
 - 🚀 최근에는 Docker와 Kubernetes를 이용한 컨테이너 관리와 배포에 대해 배우고 실습 중입니다.
 
 ## 🛠 기술 스택
