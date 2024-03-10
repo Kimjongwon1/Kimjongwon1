@@ -26,6 +26,6 @@
 ## 📫 연락처
 
 - 📧 이메일: jongwong255@gmail.com
-- 🔗 NOTION: [Visit my NOTION]([https://www.notion.so/272e5e9b242b4282a7fe911064e78a55](https://www.notion.so/272e5e9b242b4282a7fe911064e78a55?pvs=4))
+- 🔗 NOTION: [Visit my NOTION](https://www.notion.so/272e5e9b242b4282a7fe911064e78a55)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimjongwon1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
