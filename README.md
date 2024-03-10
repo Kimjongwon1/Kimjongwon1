@@ -4,7 +4,7 @@
 
 - 💼 Java와 Spring Boot 관련 프로젝트에 참여한 경험이 있습니다.
 - 🌐 Vue.js, MariaDB, Redis를 사용하여 프로젝트를 구축해 본 경험이 있습니다.
-- 🚀 최근에는 Docker와 Kubernetes를 이용한 컨테이너 관리와 배포에 대해 배우고 실습 중입니다.
+- 🚀 최근에는 AWS와 Docker 그리고 Kubernetes를 이용한 컨테이너 관리와 배포같은 인프라구축에 대해 배우고 실습 중입니다.
 
 ## 🛠 기술 스택
 
