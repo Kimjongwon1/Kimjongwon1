@@ -24,4 +24,4 @@
 ## 📫 연락처
 
 - 📧 이메일: jongwong255@gmail.com
-- https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg NOTION: [LinkedIn Profile](#)
+- 🔗 NOTION: https://www.notion.so/272e5e9b242b4282a7fe911064e78a55
