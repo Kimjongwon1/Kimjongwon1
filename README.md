@@ -1,10 +1,10 @@
-# 안녕하세요! 여기는 [김종원]의 GitHub입니다!
+# 안녕하세요! 여기는 김종원의 GitHub입니다!
 
-## 👨‍💻 저는 Java와 Spring Boot를 사용한 백엔드 개발에 관심이 많습니다
+## 👨‍💻 저는 Java와 Spring Boot를 사용한 백엔드 개발에 관심이 많습니다.
 
-- 💼 Java와 Spring Boot로 여러 프로젝트를 개발한 경험이 있어요.
+- 💼 Java와 Spring Boot로 여러 프로젝트를 개발한 경험이 있습니다.
 - 🌐 Vue.js와 MariaDB를 사용하여 웹 애플리케이션을 구축해 본 경험이 있습니다.
-- 🚀 최근에는 Docker와 Kubernetes를 이용한 컨테이너 관리와 오케스트레이션에 대해 배우고 실습 중입니다.
+- 🚀 최근에는 Docker와 Kubernetes를 이용한 컨테이너 관리와 배포에 대해 배우고 실습 중입니다.
 
 ## 🛠 기술 스택
 
@@ -17,11 +17,13 @@
 
 ## 📈 성장과 발전을 추구하는 신입 엔지니어
 
-- RESTful API 디자인과 개발에 관심이 많아요.
+- RESTful API 디자인과 개발에 관심이 많습니다.
 - 항상 새로운 기술을 배우고, 도전하는 것을 두려워하지 않습니다.
-- 팀 프로젝트에서 소통과 협업을 중요하게 생각해요.
+- 팀 프로젝트에서 소통과 협업을 중요하게 생각합니다.
 
 ## 📫 연락처
 
 - 📧 이메일: jongwong255@gmail.com
-- 🔗 NOTION: https://www.notion.so/272e5e9b242b4282a7fe911064e78a55
+- 🔗 NOTION: [Visit my NOTION](https://www.notion.so/272e5e9b242b4282a7fe911064e78a55)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimjongwon1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
