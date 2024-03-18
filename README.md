@@ -4,7 +4,7 @@
 
 - 💼 Java와 Spring Boot 관련 프로젝트에 참여한 경험이 있습니다.
 - 🌐 Vue.js, MariaDB, Redis를 사용하여 프로젝트를 구축해 본 경험이 있습니다.
-- 🚀 최근에는 AWS와 Docker 그리고 Kubernetes를 이용한 컨테이너 관리와 배포같은 인프라구축에 대해 배우고 실습 중입니다.
+- 🚀 최근에는 AWS와 Docker 그리고 Kubernetes를 이용한 컨테이너 관리와 배포같은 인프라구축에 대해 배웠습니다.
 
 ## 🛠 기술 스택
 
@@ -19,6 +19,8 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white)
 
+![Kimjongwon1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimjongwon1&count_private=true)
+
 
 ## 📈 경력
 
@@ -26,6 +28,8 @@
 - **2023.11 - 현재** | 한화시스템 BEYOND SW 캠프 3기
 
 성장과 발전을 추구하는 신입 엔지니어로서 RESTful API 디자인과 개발에 큰 관심이 있으며, 항상 새로운 기술을 배우고 도전하는 것을 두려워하지 않습니다. 팀 프로젝트에서 소통과 협업을 중요하게 생각합니다.
+
+
 
 ## 📫 연락처
 
