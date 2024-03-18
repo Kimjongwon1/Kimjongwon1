@@ -6,6 +6,11 @@
 - 🌐 Vue.js, MariaDB, Redis를 사용하여 프로젝트를 구축해 본 경험이 있습니다.
 - 🚀 최근에는 AWS와 Docker 그리고 Kubernetes를 이용한 컨테이너 관리와 배포같은 인프라구축에 대해 배웠습니다.
 
+## 📫 연락처
+
+- 📧 이메일: jongwong255@gmail.com
+- 🔗 NOTION: [자세한 내용이 보고싶으시면!](https://carbonated-nail-f1f.notion.site/272e5e9b242b4282a7fe911064e78a55?pvs=4)
+
 ## 🛠 기술 스택
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -30,10 +35,5 @@
 성장과 발전을 추구하는 신입 엔지니어로서 RESTful API 디자인과 개발에 큰 관심이 있으며, 항상 새로운 기술을 배우고 도전하는 것을 두려워하지 않습니다. 팀 프로젝트에서 소통과 협업을 중요하게 생각합니다.
 
 
-
-## 📫 연락처
-
-- 📧 이메일: jongwong255@gmail.com
-- 🔗 NOTION: [Visit my NOTION](https://carbonated-nail-f1f.notion.site/272e5e9b242b4282a7fe911064e78a55?pvs=4)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimjongwon1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
