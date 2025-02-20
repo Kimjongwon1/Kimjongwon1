@@ -7,6 +7,7 @@
 - 🌐 **Vue.js, MariaDB, Redis**를 사용하여 프로젝트 구축 경험
 - 🚀 **AWS, Docker, Kubernetes**를 이용한 인프라 구축 학습
 -  **API 활용** 경험 (네이버 SENS, 인포텍 스크래핑 API)
+-  **Flutter 개발** 공부 및 개발 진행중
 
 ## 📫 연락처
 - 📧 이메일: [jongwong255@gmail.com](mailto:jongwong255@gmail.com)
