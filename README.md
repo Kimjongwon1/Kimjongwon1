@@ -7,7 +7,7 @@
 - 🌐 **Vue.js, MariaDB, Redis**를 사용하여 프로젝트 구축 경험
 - 🚀 **AWS, Docker, Kubernetes**를 이용한 인프라 구축 학습
 -  **API 활용** 경험 (네이버 SENS, 인포텍 스크래핑 API)
--  **Flutter 개발** 공부 및 개발 진행중
+-  **Flutter** 공부 및 개발 진행중
 
 ## 📫 연락처
 - 📧 이메일: [jongwong255@gmail.com](mailto:jongwong255@gmail.com)
@@ -27,6 +27,9 @@
 ![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Termius](https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 
 ## 📈 경력
 
