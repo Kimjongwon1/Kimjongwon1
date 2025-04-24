@@ -7,7 +7,7 @@
 - 🌐 **Vue.js, MariaDB, Redis**를 사용하여 프로젝트 구축 경험
 - 🚀 **AWS, Docker, Kubernetes**를 이용한 인프라 구축 학습
 -  **API 활용** 경험 (네이버 SENS, 인포텍 스크래핑 API)
--  **Flutter** 학습 및 개발 진행중
+-  **Flutter** + **Kafka**학습 및 개발 진행중
 ## 📫 연락처
 - 📧 이메일: [jongwong255@gmail.com](mailto:jongwong255@gmail.com)
 - 🔗 NOTION: [자세한 내용 보기](https://carbonated-nail-f1f.notion.site/272e5e9b242b4282a7fe911064e78a55?pvs=4)
