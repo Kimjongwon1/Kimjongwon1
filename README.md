@@ -5,7 +5,7 @@
 
 - 💼 **Java와 Spring Boot** 관련 프로젝트 경험
 - 🌐 **Vue.js, MariaDB, Redis**를 사용하여 프로젝트 구축 경험
-- 🚀 **AWS, Docker, Kubernetes**를 이용한 인프라 구축 학습
+- 🚀 **AWS, Docker**를 이용한 인프라 구축 학습
 -  **API 활용** 경험 (네이버 SENS, 인포텍 스크래핑 API)
 -  **Flutter** + **Kafka** 학습 및 개발 진행중
 ## 📫 연락처
@@ -21,8 +21,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Termius](https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white)
